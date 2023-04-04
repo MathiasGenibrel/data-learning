@@ -32,7 +32,7 @@ nombres de pièces, de leur surface.
 
 *Réutiliser les données de data_cleaned ou de data_cleaned_2*
 
-- [ ] Représenter un scatter plot, chaque variable en abscisse et le prix en ordonnée.
+- [x] Représenter un scatter plot, chaque variable en abscisse et le prix en ordonnée.
 - [ ] Représenter un graphique qui permet de déterminer le prix moyen en fonction du nombre de balcons.
 - [ ] Représenter un graphique qui permet de déterminer le prix moyen en fonction du nombre de salles de bains.
 - [ ] Créer une data frame qui contient les colonnes suivantes :
