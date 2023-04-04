@@ -34,7 +34,7 @@ nombres de pièces, de leur surface.
 
 - [x] Représenter un scatter plot, chaque variable en abscisse et le prix en ordonnée.
 - [x] Représenter un graphique qui permet de déterminer le prix moyen en fonction du nombre de balcons.
-- [ ] Représenter un graphique qui permet de déterminer le prix moyen en fonction du nombre de salles de bains.
+- [x] Représenter un graphique qui permet de déterminer le prix moyen en fonction du nombre de salles de bains.
 - [ ] Créer une data frame qui contient les colonnes suivantes :
     - `availability` : les dates de disponibilité possibles (valeurs uniques)
     - `count` : le nombre de biens qui deviennent disponibles à cette date
