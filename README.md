@@ -47,12 +47,12 @@ nombres de pièces, de leur surface.
 *Réutiliser les données de data_cleaned ou de data_cleaned_2*
 
 - [x] Séparer les données en un jeu d'entraînement et un jeu de test (70 / 30)
-- [ ] Prédiction avec une variable numérique
+- [x] Prédiction avec une variable numérique
     - [x] Calculer les prédictions avec une régression linéaire simple et les sauvegarder dans une table sql
       nommée `model_1_predictions`
-    - [ ] Calculer la même prédiction que précédemment, mais remplacer la variable `total_sqft` (X_train) par le nombre
+    - [x] Calculer la même prédiction que précédemment, mais remplacer la variable `total_sqft` (X_train) par le nombre
       de jours avant la disponibilité (`days_before`).
-- [ ] Calculer les prédictions avec une régression linéaire multiple et les sauvegarder dans une table sql
+- [x] Calculer les prédictions avec une régression linéaire multiple et les sauvegarder dans une table sql
   nommée `model_2_predictions`
-- [ ] Reproduire la table `model_2_predictions` en incluant une variable catégorielle (en
+- [x] Reproduire la table `model_2_predictions` en incluant une variable catégorielle (en
   utilisant `pandas.get_dummies`). la sauvegarder dans une table sql nommée `model_3_predictions`
