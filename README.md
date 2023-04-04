@@ -40,7 +40,7 @@ nombres de pièces, de leur surface.
     - `count` : le nombre de biens qui deviennent disponibles à cette date
     - `count_cum`: le nombre de biens cumulés disponibles à cette date
     - `price_mean`: le prix moyen des biens qui deviennent disponibles à cette date
-- [ ] Représenter la matrice des corrélations des variables quantitatives.
+- [x] Représenter la matrice des corrélations des variables quantitatives.
 
 ### Partie 3 - Prédiction
 
